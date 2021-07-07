@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá você aí! 👋
 
-<!--
-**the1scient/the1scient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim ℹ️
 
-Here are some ideas to get you started:
+- A maioria de meus projetos são em PHP;
+- Estou aprendendo mais sobre a Arquitetura MVC (Model-View-Controller);
+- Costumo a fazer projetos para o Habbo Hotel, em sua maior parte, CRUDs;
+- Fanático por aprender mais sobre programação e por testar IDEs;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Minhas linguagens de programação prediletas ♥️
+
+- PHP
+- Javascript (Node & Puro)
+- Python
+- C#
+
+
+## Meus principais projetos 🔥
+
+- [System UNEP](https://github.com/the1scient/system-unep)
+- [System DPM](https://github.com/the1scient/system-dpm)
+- [The Economist BOT](https://github.com/the1scient/the-economist)
+
+
