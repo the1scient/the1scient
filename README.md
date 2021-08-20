@@ -6,7 +6,7 @@
 - Estou aprendendo mais sobre a Arquitetura MVC (Model-View-Controller);
 - Costumo a fazer projetos para o Habbo Hotel, em sua maior parte, CRUDs;
 - Fanático por aprender mais sobre programação e por testar IDEs;
-
+- Meu Discord: the1scient#9999
 
 ## Minhas linguagens de programação prediletas ♥️
 
