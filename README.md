@@ -1,4 +1,5 @@
 ### Olá você aí! 👋
+![](https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic)
 
 ## Sobre mim ℹ️
 
@@ -51,9 +52,11 @@
 
 ## Minhas estatísticas 👨‍🏫
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the1scient&theme=chartreuse-dark&langs_count=8&hide=html&style=compact&custom_title=Linguagens%20mais%20usadas)
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=the1scient&theme=chartreuse-dark&custom_title=Meus%20status&locale=pt-br)](https://github.com/the1scient/)
+<div align="center">
+  <a href="https://github.com/the1scient">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=the1scient&theme=chartreuse-dark&custom_title=Meus%20status&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the1scient&theme=chartreuse-dark&langs_count=8&hide=html&layout=compact&custom_title=Linguagens%20mais%20usadas"/>
+</div>
 
 
 
-![](https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic)
