@@ -1,4 +1,4 @@
-### Olá você aí! 👋
+### Olá você aí! 👋   
 ![](https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic)
 
 ## Sobre mim ℹ️
@@ -8,10 +8,10 @@
 - Costumo a fazer projetos para o Habbo Hotel, em sua maior parte, CRUDs;
 - Fanático por aprender mais sobre programação e por testar IDEs;
 
-<img align="right" width="100" height="100" src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif">
+![Discord: Fabbri#0001](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp; Fabbri#0001 <img width="15" height="15" src="https://i.imgur.com/124c6HO.gif" alt="animated" />
 
+  
 
-![Discord: Fabbri#0001](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp; Fabbri#0001
 
 </br>
 
