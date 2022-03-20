@@ -8,7 +8,7 @@
 - Costumo a fazer projetos para o Habbo Hotel, em sua maior parte, CRUDs;
 - Fanático por aprender mais sobre programação e por testar IDEs;
 
-![Discord: Fabbri#0001](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp; Fabbri#0001 <img width="15" height="15" src="https://i.imgur.com/124c6HO.gif" alt="animated" />
+![Discord: Fabbri#3166](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp; Fabbri#0001 <img width="15" height="15" src="https://i.imgur.com/124c6HO.gif" alt="animated" />
 
   
 
