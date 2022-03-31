@@ -1,4 +1,4 @@
-### Olá você aí! 👋   
+### Hi there! 👋   
 
 ## Sobre mim ℹ️
 
