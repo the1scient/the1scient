@@ -7,8 +7,7 @@
 - Costumo a fazer projetos para o Habbo Hotel, em sua maior parte, CRUDs;
 - Fanático por aprender mais sobre programação e por testar IDEs;
 - Discord: Fabbri#3166
-![](https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic)
-
+- ![](https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic)
   
 
 
