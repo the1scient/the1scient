@@ -13,7 +13,7 @@
 
 </br>
 
-## Minhas tecnologias prediletas ♥️
+## Minhas tecnologias favoritas ♥️
 
 
 ### Aprendidas:
