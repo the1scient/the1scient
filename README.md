@@ -6,8 +6,15 @@
 - Estou aprendendo mais sobre a Arquitetura MVC (Model-View-Controller);
 - Costumo a fazer projetos para o Habbo Hotel, em sua maior parte, CRUDs;
 - Fanático por aprender mais sobre programação e por testar IDEs;
-- Discord: Fabbri#3166
-- ![](https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic)
+
+<a href="https://discord.com/users/684819815940227092">
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/684819815940227092.png" />
+</a>
+
+
+
+
+<img style="float: right; position: absolute;"  src="https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic"> 
   
 
 
