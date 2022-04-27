@@ -1,4 +1,4 @@
-### Hi there! 👋   🤝
+### Hi there! 👋   <img style="width: 27px; height: 27px;" src="https://i.imgur.com/iR3J021.gif" />
 
 ## Sobre mim ℹ️
 
@@ -10,6 +10,7 @@
 <a href="https://discord.com/users/684819815940227092">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/684819815940227092.png" />
 </a>
+
 
 
 <img style="float: right; position: absolute;"  src="https://komarev.com/ghpvc/?username=the1scient&color=red&style=plastic"> 
