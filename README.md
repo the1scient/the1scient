@@ -1,4 +1,4 @@
-### Hi there! 👋   <img style="width: 27px; height: 27px;" src="https://i.imgur.com/iR3J021.gif" />
+### Hi there! 👋🤝
 
 ## Sobre mim ℹ️
 
