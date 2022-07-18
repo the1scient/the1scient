@@ -3,8 +3,8 @@
 ## Sobre mim ℹ️
 
 - A maioria de meus projetos são em PHP;
-- Estou aprendendo mais sobre a Arquitetura MVC (Model-View-Controller);
-- Costumo a fazer projetos para o Habbo Hotel, em sua maior parte, CRUDs;
+- Estou aperfeiçoando o Blade com Laravel;
+- (Tentando) aprender desenvolvimento mobile;
 - Fanático por aprender mais sobre programação e por testar IDEs;
 
 <a href="https://discord.com/users/684819815940227092">
@@ -34,13 +34,13 @@
  ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
  
  ### Aprendendo:
  
  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
  
  ### OS (dual boot):
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
