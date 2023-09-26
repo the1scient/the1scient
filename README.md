@@ -3,8 +3,7 @@
 ## Sobre mim ℹ️
 
 - A maioria de meus projetos são em PHP;
-- Estou aperfeiçoando o Blade com Laravel;
-- (Tentando) aprender desenvolvimento mobile;
+- Estou me aventurando com Swift e SwiftUI no Hackatruck.
 - Fanático por aprender mais sobre programação e por testar IDEs;
 
 
@@ -29,9 +28,6 @@
 
 ## Minhas tecnologias favoritas ♥️
 
-
-### Aprendidas:
-
  ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,11 +38,7 @@
  ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
- 
- ### Aprendendo:
- 
+ ![](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  
@@ -57,14 +49,14 @@
  
 </br>
  
-## Meus principais projetos 🔥
+## Principais projetos 🔥
 
 - [System UNEP](https://github.com/the1scient/system-unep)
 - [System DPM](https://github.com/the1scient/system-dpm)
 - [The Economist BOT](https://github.com/the1scient/the-economist)
 
 
-## Minhas estatísticas 👨‍🏫
+## Estatísticas 👨‍🏫
 
 <div align="center">
   <a href="https://github.com/the1scient">
