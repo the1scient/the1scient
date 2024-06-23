@@ -3,7 +3,7 @@
 ## Sobre mim ℹ️
 
 - A maioria de meus projetos são em PHP;
-- Estou me aventurando com Swift e SwiftUI no Hackatruck.
+- Faço parte da Apple Developer Academy | Senac São Paulo (aprendendo bastante sobre Swift & SwiftUI!)
 - Fanático por aprender mais sobre programação e por testar IDEs;
 
 
